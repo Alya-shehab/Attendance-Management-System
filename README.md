@@ -30,10 +30,13 @@ Collections | Lists for storing users & attendance logs
 
 ## 🗂️ Project Structure
 src/
+
 ├── ~$Main.java
 
 └── Main.java
+
 docs/
+
 └── Milestone1.pdf + OOP_Project + UML.png
 
 
