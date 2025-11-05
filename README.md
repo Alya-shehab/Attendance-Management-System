@@ -26,10 +26,10 @@ Polymorphism | Role-specific methods (admin vs manager vs employee)
 Encapsulation | Attributes & methods controlling data access  
 Collections | Lists for storing users & attendance logs  
 
+--- 
 
 ## 🗂️ Project Structure
 
----
 
 ## 🚀 How It Works
 
